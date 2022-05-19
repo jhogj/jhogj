@@ -1,6 +1,6 @@
 ## oi, 
 - 📘Estudante de Gestão Pública e futuro Cientista de Dados
-- 🎒42
+- 🎒42 é sempre a resposta para tudo
 - 🤓apaixonado por Java (sério!!!), *porém flerto com frequência com outras linguagens...*
 - 📫 email: junior.guimaraes@poli.ufrj.br
 - 😄 ele/dele
