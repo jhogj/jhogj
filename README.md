@@ -1,8 +1,8 @@
 ## oi, 
-- 📘Estudante de Gestão Pública e futuro Cientista de Dados
-- 🎒42 é sempre a resposta para tudo
+- 📘Estudante de Gestão Pública e Desenvolvedor Java 
+- 🎒42 é sempre a resposta para tudo!!!
 - 🤓apaixonado por Java (sério!!!), *porém flerto com frequência com outras linguagens...*
-- 📫 email: junior.guimaraes@poli.ufrj.br
+- 📫 email: junior.guimaraes@poli.ufrj.br/ telefone: (21) 96898 4162
 - 😄 ele/dele
 
 <div align="center">
