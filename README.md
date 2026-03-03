@@ -1,5 +1,5 @@
 ## oi, 
-- 📘Estudante de Gestão Pública e Desenvolvedor Java 
+- 📘Superintendente de Dados e Inteligência Artificial - SETD RJ
 - 🎒42 é sempre a resposta para tudo!!!
 - 📫 email: junior.guimaraes@poli.ufrj.br/
   
