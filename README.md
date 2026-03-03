@@ -1,15 +1,7 @@
 ## oi, 
 - 📘Estudante de Gestão Pública e Desenvolvedor Java 
 - 🎒42 é sempre a resposta para tudo!!!
-- 🤓apaixonado por Java (sério!!!), *porém flerto com frequência com outras linguagens...*
-- 📫 email: junior.guimaraes@poli.ufrj.br/ telefone: (21) 96898 4162
-- 😄 ele/dele
-
-<div align="center">
-  <a href="https://github.com/jhogj">
-  <img height="181em" src="https://github-readme-stats.vercel.app/api?username=jhogj&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="181em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhogj&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+- 📫 email: junior.guimaraes@poli.ufrj.br/
   
   ##
   
